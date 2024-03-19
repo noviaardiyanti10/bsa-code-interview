@@ -1,5 +1,5 @@
-This repository is for interview test at BSA
+**This repository is for interview test at BSA
 
 To run:
-npm install
-nodemon index.js
+*npm install
+*nodemon index.js
